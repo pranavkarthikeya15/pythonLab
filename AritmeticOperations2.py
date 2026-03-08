@@ -1,6 +1,0 @@
-x=int(input("Enter the value of x:"))
-y=int(input("Enter the value of y:"))
-print('the addition of the given operands is',x+y)
-print('the subtraction of the given operands is',x-y)
-print('the product of the given operands is',x*y)
-print('the division of the given operands is',float(x/y))
